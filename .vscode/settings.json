@@ -1,0 +1,8 @@
+{
+    "dotnet.defaultSolution": "Back\\src\\ProEventos.API\\ProEventos.API.sln",
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.path": "",
+    "omnisharp.projectLoadTimeout": 60,
+    "omnisharp.useGlobalMono": "always",
+    "omnisharp.useModernNet": false
+}
