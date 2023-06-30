@@ -36,7 +36,8 @@ namespace ProEventos.API.Controllers
         
         public EventoController(ILogger<EventoController> logger)
         {
-            
+        
+        
         }
 
         [HttpGet]
